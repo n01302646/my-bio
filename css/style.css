@@ -1,0 +1,43 @@
+body {
+    background-color:#3AAFA9;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.5;
+    
+ }
+ .header-name
+ {
+     height: 100px;
+     background-color: #17252A;    
+     color:#FEFFFF;
+     border-radius: 15px;
+     text-align: center;
+     margin-top:-20px;
+}
+.footer-name
+ {
+     background-color: #17252A;    
+     color:#FEFFFF;
+     border-radius: 15px;
+     text-align: center;
+  
+}
+.image-section
+{
+  float:left;
+}
+.bio-section
+{
+    float:right;
+}
+.image-tag
+{
+    height:300px;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+section
+{
+    border-style:solid;
+    border-color:#2B7A78 ;
+}
