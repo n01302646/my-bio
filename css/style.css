@@ -11,7 +11,12 @@ body {
      color:#FEFFFF;
      border-radius: 15px;
      text-align: center;
-     margin-top:-20px;
+     margin-top:-20PX;
+}
+.header-name h1
+{
+    margin-top:0px;
+    padding: 30px;
 }
 .footer-name
  {
@@ -21,13 +26,14 @@ body {
      text-align: center;
   
 }
-.image-section
+
+.info
 {
-  float:left;
-}
-.bio-section
-{
-    float:right;
+ float:right;   
+ border:none;
+ margin-right:70%;
+ margin-top:50px;
+
 }
 .image-tag
 {
@@ -35,9 +41,11 @@ body {
     margin-top: 20px;
     margin-left: 40px;
     margin-right: 20px;
+    margin-bottom:20px;
 }
 section
 {
     border-style:solid;
     border-color:#2B7A78 ;
+    padding: 1%;
 }

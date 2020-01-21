@@ -1,0 +1,52 @@
+*
+{
+    padding: 0;
+    margin:0;
+   background-color: #EEF5DB;
+}
+
+.logo-header
+{
+height: 10em;
+background-color: #C7EFCF;
+margin:0;
+
+}
+.logo-img
+{
+  margin:1.5em; 
+  margin:0;
+
+}
+.story1-heading
+{
+    border: 2px solid black;;
+    text-align:center;
+    width: 70%;
+    margin: auto;
+}
+.story1-content
+{
+  margin: auto;
+    border: 2px solid black;   
+    width: 70%;
+}
+.story1-img
+{
+ padding: 1em;
+}
+
+p
+{
+ font-size: 1.3em;
+
+}
+footer
+{
+  height: 10em;
+  background-color: lightblue;
+}
+.social-icons
+{
+  
+}
